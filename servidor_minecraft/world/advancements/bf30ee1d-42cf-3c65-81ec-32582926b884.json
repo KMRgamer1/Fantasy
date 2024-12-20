@@ -1436,9 +1436,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-20 19:17:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
     },
     "done": true
   },
@@ -1457,6 +1475,30 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-20 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_boots": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
     },
     "done": true
   },
@@ -1490,9 +1532,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 20:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-20 19:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
     },
     "done": true
   },
@@ -1514,15 +1574,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-20 20:03:37 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/khopesh": {
+    "criteria": {
+      "has_netherite_sword": "2024-12-20 20:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 20:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
     },
     "done": true
   },
@@ -1535,6 +1613,18 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-12-20 19:43:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:29 +0000"
     },
     "done": true
   },
@@ -1574,9 +1664,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/wither_leggings": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-20 19:49:58 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
     },
     "done": true
   },
@@ -1598,6 +1712,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/warlord_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-20 20:04:46 +0000"
@@ -1610,9 +1730,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-20 20:17:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-20 19:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-20 20:19:29 +0000"
     },
     "done": true
   },
@@ -1631,6 +1769,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-20 19:49:58 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
     },
     "done": true
   },
@@ -1664,6 +1814,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:33 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-20 19:52:24 +0000"
@@ -1673,6 +1835,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-20 20:03:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
     },
     "done": true
   },
@@ -1718,6 +1886,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/warlord_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 19:52:24 +0000"
@@ -1727,6 +1907,12 @@
   "knightquest:recipes/misc/path_chestplate": {
     "criteria": {
       "has_leather": "2024-12-20 19:17:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_leggings": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
     },
     "done": true
   },
@@ -1760,6 +1946,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-20 20:17:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2024-12-20 19:24:22 +0000"
@@ -1784,9 +1982,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/spider_helmet": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-20 19:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
     },
     "done": true
   },
@@ -1844,6 +2066,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-12-20 20:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-12-20 19:17:05 +0000"
@@ -1859,6 +2087,18 @@
   "knightquest:recipes/misc/conquistador_boots": {
     "criteria": {
       "has_leather": "2024-12-20 19:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
     },
     "done": true
   },
@@ -1916,9 +2156,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/evoker_boots": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-20 19:24:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_netherite_sword": "2024-12-20 20:16:39 +0000"
     },
     "done": true
   },
@@ -1946,15 +2198,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate_leggings": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 20:02:05 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2024-12-20 20:20:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2024-12-20 19:17:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
     },
     "done": true
   },
@@ -1967,6 +2237,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2024-12-20 20:02:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:29 +0000"
     },
     "done": true
   },
@@ -1994,9 +2270,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_boots": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 20:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-20 19:12:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/paladin_sword": {
+    "criteria": {
+      "has_netherite_sword": "2024-12-20 20:16:39 +0000"
     },
     "done": true
   },
@@ -2048,15 +2342,57 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate_boots": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh_claymore": {
+    "criteria": {
+      "has_netherite_sword": "2024-12-20 20:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-20 19:12:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-20 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_netherite_sword": "2024-12-20 20:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-20 19:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
     },
     "done": true
   },
@@ -2078,6 +2414,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 20:02:05 +0000"
@@ -2096,6 +2444,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2024-12-20 20:20:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-20 19:49:58 +0000"
@@ -2111,6 +2465,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-20 19:12:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_boots": {
+    "criteria": {
+      "has_bone": "2024-12-20 20:19:32 +0000"
     },
     "done": true
   },
@@ -2204,15 +2570,45 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2024-12-20 20:20:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2024-12-20 20:20:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-20 20:04:46 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2024-12-20 19:27:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-20 20:25:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_chestplate": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 20:19:36 +0000"
     },
     "done": true
   },
@@ -2225,6 +2621,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-20 19:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-20 20:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
     },
     "done": true
   },
@@ -2252,6 +2660,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:32 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
       "has_leather": "2024-12-20 19:17:05 +0000"
@@ -2261,6 +2675,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-20 19:52:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:33 +0000"
     },
     "done": true
   },
@@ -2291,6 +2711,18 @@
   "knightquest:recipes/misc/steel_axe": {
     "criteria": {
       "has_feather": "2024-12-20 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_leggings": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 20:24:50 +0000"
     },
     "done": true
   },

@@ -1283,3 +1283,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 20:17:22.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
 [20Dec2024 20:17:27.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
 [20Dec2024 20:18:29.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:29:24.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
