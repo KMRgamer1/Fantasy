@@ -574,3 +574,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 23:36:50.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved wrongly!
 [20Dec2024 23:39:31.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
 [20Dec2024 23:39:31.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[20Dec2024 23:49:13.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KMRgamerotaku[/127.138.109.16:38883] logged in with entity id 831 at (-414.69999998807907, 15.0, -455.55089702742043)
+[20Dec2024 23:49:13.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku joined the game
+[20Dec2024 23:49:13.586] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
