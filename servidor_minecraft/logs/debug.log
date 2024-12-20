@@ -7039,3 +7039,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 05:20:34.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 05:21:18.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
 [20Dec2024 05:21:18.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[20Dec2024 05:25:34.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 05:25:34.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 05:30:34.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 05:30:34.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
