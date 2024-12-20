@@ -99,6 +99,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 19:47:26 +0000",
       "minecraft:taiga": "2024-12-20 19:48:31 +0000",
+      "minecraft:frozen_river": "2024-12-20 20:07:48 +0000",
       "minecraft:beach": "2024-12-20 20:00:40 +0000",
       "minecraft:river": "2024-12-20 18:57:39 +0000",
       "minecraft:stony_shore": "2024-12-20 18:54:08 +0000",
@@ -1329,6 +1330,7 @@
       "maple_woods": "2024-12-20 19:15:31 +0000",
       "coniferous_forest": "2024-12-20 19:56:44 +0000",
       "redwood_forest": "2024-12-20 19:26:19 +0000",
+      "seasonal_orchard": "2024-12-20 20:08:37 +0000",
       "seasonal_forest": "2024-12-20 19:00:36 +0000",
       "fir_clearing": "2024-12-20 20:00:58 +0000",
       "pumpkin_patch": "2024-12-20 19:22:26 +0000",
