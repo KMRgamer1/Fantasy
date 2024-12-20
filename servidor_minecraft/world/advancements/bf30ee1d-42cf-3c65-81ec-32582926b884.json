@@ -823,10 +823,12 @@
       "minecraft:skeleton": "2024-12-20 20:40:24 +0000",
       "minecraft:spider": "2024-12-20 20:38:59 +0000",
       "minecraft:creeper": "2024-12-20 20:57:11 +0000",
+      "minecraft:wither_skeleton": "2024-12-20 21:25:13 +0000",
       "minecraft:cave_spider": "2024-12-20 21:12:59 +0000",
       "minecraft:silverfish": "2024-12-20 21:09:28 +0000",
       "minecraft:stray": "2024-12-20 21:09:05 +0000",
-      "minecraft:zombie": "2024-12-20 18:58:57 +0000"
+      "minecraft:zombie": "2024-12-20 18:58:57 +0000",
+      "minecraft:zombie_villager": "2024-12-20 21:29:05 +0000"
     },
     "done": false
   },
@@ -884,6 +886,7 @@
       "cooked_mutton": "2024-12-20 20:39:10 +0000",
       "cooked_beef": "2024-12-20 19:19:27 +0000",
       "apple": "2024-12-20 19:42:12 +0000",
+      "bread": "2024-12-20 21:21:58 +0000",
       "rotten_flesh": "2024-12-20 18:59:01 +0000",
       "suspicious_stew": "2024-12-20 19:43:06 +0000"
     },
@@ -1696,6 +1699,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-20 21:22:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-20 19:17:05 +0000"
@@ -1738,6 +1747,12 @@
       "entered_watch_tower": "2024-12-20 20:04:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-20 21:29:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
@@ -1826,6 +1841,12 @@
   "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
       "has_red_mushroom": "2024-12-20 20:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-20 21:29:51 +0000"
     },
     "done": true
   },
@@ -2423,6 +2444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-20 21:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-20 19:46:14 +0000"
@@ -2438,6 +2465,12 @@
   "knightquest:recipes/misc/bamboo_blue_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-20 21:30:30 +0000"
     },
     "done": true
   },
@@ -2573,6 +2606,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-20 21:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-20 19:52:24 +0000"
@@ -2699,6 +2738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-20 21:29:51 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_watch_tower": "2024-12-20 20:04:35 +0000"
@@ -2750,6 +2795,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-20 21:29:51 +0000"
     },
     "done": true
   },
@@ -3110,6 +3161,7 @@
   "too_many_bows:master_bow_collector": {
     "criteria": {
       "burnt_relic": "2024-12-20 20:52:14 +0000",
+      "aethers_call": "2024-12-20 21:22:50 +0000",
       "arcane_bow": "2024-12-20 20:53:38 +0000",
       "cyroheart_bow": "2024-12-20 20:59:54 +0000"
     },
@@ -3148,6 +3200,12 @@
   "knightquest:recipes/misc/hollow_boots": {
     "criteria": {
       "has_red_mushroom": "2024-12-20 20:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-20 21:30:30 +0000"
     },
     "done": true
   },
@@ -3328,6 +3386,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-20 21:22:54 +0000"
     },
     "done": true
   },
