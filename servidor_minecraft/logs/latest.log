@@ -1286,3 +1286,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 20:29:24.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [20Dec2024 20:31:44.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has completed the challenge [Repair Crystal]
 [20Dec2024 20:40:20.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Not Today, Thank You]
+[20Dec2024 20:52:10.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Simple Dungeon Room]
+[20Dec2024 20:52:13.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [NOT THE BEES!]
+[20Dec2024 20:52:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Too Many Bows]
+[20Dec2024 20:56:09.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:57:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Take Aim]
+[20Dec2024 21:02:40.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has reached the goal [Abyssal Conqueror]
+[20Dec2024 21:03:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[20Dec2024 21:08:20.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/33007, l='ServerLevel[world]', x=-331.20, y=53.29, z=-736.26]
+[20Dec2024 21:08:20.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/33008, l='ServerLevel[world]', x=-331.20, y=53.29, z=-736.26]
+[20Dec2024 21:08:20.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/33009, l='ServerLevel[world]', x=-331.20, y=53.29, z=-736.26]
+[20Dec2024 21:08:20.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/33010, l='ServerLevel[world]', x=-331.20, y=53.29, z=-736.26]
+[20Dec2024 21:08:20.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/33011, l='ServerLevel[world]', x=-331.20, y=53.29, z=-736.26]
+[20Dec2024 21:08:49.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]

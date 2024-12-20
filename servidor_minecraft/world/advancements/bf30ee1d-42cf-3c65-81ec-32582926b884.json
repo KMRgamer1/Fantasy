@@ -73,10 +73,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-20 20:50:57 +0000",
       "log_spam_fixer": "2024-12-20 18:51:54 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -823,6 +822,9 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-20 20:40:24 +0000",
       "minecraft:spider": "2024-12-20 20:38:59 +0000",
+      "minecraft:creeper": "2024-12-20 20:57:11 +0000",
+      "minecraft:silverfish": "2024-12-20 21:09:28 +0000",
+      "minecraft:stray": "2024-12-20 21:09:05 +0000",
       "minecraft:zombie": "2024-12-20 18:58:57 +0000"
     },
     "done": false
@@ -1561,6 +1563,12 @@
     },
     "done": true
   },
+  "ancient_elements:abyssal_conqueror": {
+    "criteria": {
+      "abyssal_conqueror": "2024-12-20 21:02:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-20 19:49:58 +0000"
@@ -1606,6 +1614,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-20 19:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -1669,6 +1683,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 20:57:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2024-12-20 20:02:05 +0000"
@@ -1695,6 +1715,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_deep_crypt": "2024-12-20 21:04:52 +0000",
       "entered_watch_tower": "2024-12-20 20:04:35 +0000"
     },
     "done": false
@@ -1801,6 +1822,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-20 19:18:13 +0000"
@@ -1867,6 +1894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
       "has_leather": "2024-12-20 19:17:05 +0000"
@@ -1900,6 +1933,12 @@
   "knightquest:recipes/misc/pirate_chestplate": {
     "criteria": {
       "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -1963,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-20 20:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-20 20:03:37 +0000"
@@ -2017,9 +2062,21 @@
     },
     "done": true
   },
+  "simplyswords:hiveheart": {
+    "criteria": {
+      "requirement": "2024-12-20 20:52:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2024-12-20 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -2113,6 +2170,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-12-20 20:17:32 +0000"
@@ -2161,9 +2230,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 20:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-20 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -2251,6 +2332,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-20 21:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 20:02:05 +0000"
@@ -2281,6 +2368,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-20 19:46:14 +0000"
@@ -2296,6 +2389,12 @@
   "knightquest:recipes/misc/bamboo_blue_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -2407,6 +2506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_boots": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-20 19:24:21 +0000"
@@ -2437,6 +2542,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-20 21:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-20 19:21:05 +0000"
@@ -2454,6 +2565,12 @@
       "has_bone_meal": "2024-12-20 20:19:36 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2024-12-20 21:04:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
@@ -2479,9 +2596,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-20 20:02:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -2563,6 +2698,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2024-12-20 20:17:32 +0000"
@@ -2596,6 +2737,18 @@
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-20 20:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2024-12-20 20:52:14 +0000"
     },
     "done": true
   },
@@ -2641,6 +2794,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
       "has_red_mushroom": "2024-12-20 20:45:25 +0000"
@@ -2662,6 +2821,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-20 19:12:39 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 20:52:19 +0000"
     },
     "done": true
   },
@@ -2707,6 +2872,24 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2024-12-20 20:52:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-20 21:01:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 20:02:05 +0000"
@@ -2716,6 +2899,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-20 19:43:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -2761,9 +2950,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-20 19:12:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -2800,6 +3001,20 @@
   "knightquest:recipes/misc/apple_boots": {
     "criteria": {
       "has_golden_apple": "2024-12-20 20:20:19 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "burnt_relic": "2024-12-20 20:52:14 +0000",
+      "arcane_bow": "2024-12-20 20:53:38 +0000",
+      "cyroheart_bow": "2024-12-20 20:59:54 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-20 21:01:09 +0000"
     },
     "done": true
   },
@@ -2848,6 +3063,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-20 20:25:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -2902,6 +3123,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-20 19:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 20:52:19 +0000"
     },
     "done": true
   },
@@ -2977,6 +3204,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
       "has_bone_meal": "2024-12-20 20:19:36 +0000"
@@ -2986,6 +3219,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:53:41 +0000"
     },
     "done": true
   },
