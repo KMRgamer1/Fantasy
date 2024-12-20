@@ -1305,3 +1305,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 21:16:29.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
 [20Dec2024 21:16:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Local Brewery]
 [20Dec2024 21:20:40.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has reached the goal [Zombie Doctor]
+[20Dec2024 21:33:40.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Cover Me with Diamonds]
+[20Dec2024 21:36:10.377] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[20Dec2024 21:37:32.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
