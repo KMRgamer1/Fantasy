@@ -1436,6 +1436,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-20 20:27:09 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_blue_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:24:50 +0000"
@@ -1481,6 +1487,12 @@
   "knightquest:recipes/misc/wither_boots": {
     "criteria": {
       "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_chestplate": {
+    "criteria": {
+      "has_arrow": "2024-12-20 20:31:34 +0000"
     },
     "done": true
   },
@@ -1646,6 +1658,12 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-20 20:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-20 19:12:23 +0000"
@@ -1700,6 +1718,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bow_helmet": {
+    "criteria": {
+      "has_arrow": "2024-12-20 20:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-12-20 19:41:21 +0000"
@@ -1721,6 +1745,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-20 20:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 20:27:51 +0000"
     },
     "done": true
   },
@@ -1844,6 +1874,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bow_leggings": {
+    "criteria": {
+      "has_arrow": "2024-12-20 20:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-12-20 19:29:19 +0000"
@@ -1913,6 +1949,12 @@
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
       "has_bone": "2024-12-20 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-20 20:27:09 +0000"
     },
     "done": true
   },
@@ -2156,6 +2198,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-20 20:27:09 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_blue_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:24:50 +0000"
@@ -2231,6 +2279,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-20 20:04:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_boots": {
+    "criteria": {
+      "has_arrow": "2024-12-20 20:31:34 +0000"
     },
     "done": true
   },
@@ -2444,6 +2498,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2024-12-20 20:32:02 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2024-12-20 20:20:19 +0000"
@@ -2513,6 +2573,12 @@
   "knightquest:recipes/misc/evoker_leggings": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-20 19:24:21 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:repair_crystal": {
+    "criteria": {
+      "get_repair": "2024-12-20 20:31:44 +0000"
     },
     "done": true
   },
@@ -2591,6 +2657,12 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-20 20:17:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-20 20:31:43 +0000"
     },
     "done": true
   },

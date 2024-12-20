@@ -9204,3 +9204,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [20Dec2024 20:26:50.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/28041, l='ServerLevel[world]', x=-471.86, y=52.00, z=-473.88, removed=DISCARDED]
 [20Dec2024 20:27:01.387] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
 [20Dec2024 20:29:24.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:30:57.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 20:30:57.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 20:31:44.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has completed the challenge [Repair Crystal]
+[20Dec2024 20:31:52.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/28562, l='ServerLevel[world]', x=-467.57, y=53.40, z=-427.29], dimensionLocationPath overworld
+[20Dec2024 20:31:52.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/28562, l='ServerLevel[world]', x=-467.57, y=53.40, z=-427.29] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@44]
+[20Dec2024 20:31:52.375] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[20Dec2024 20:31:52.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/28562, l='ServerLevel[world]', x=-467.13, y=52.35, z=-427.46, removed=DISCARDED]
+[20Dec2024 20:32:01.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/28578, l='ServerLevel[world]', x=-470.48, y=52.36, z=-425.74], dimensionLocationPath overworld
+[20Dec2024 20:32:01.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/28578, l='ServerLevel[world]', x=-470.48, y=52.36, z=-425.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@44]
+[20Dec2024 20:32:02.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/28578, l='ServerLevel[world]', x=-470.25, y=52.11, z=-426.02, removed=DISCARDED]
+[20Dec2024 20:35:57.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 20:35:57.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 20:36:11.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/29254, l='ServerLevel[world]', x=-540.59, y=51.57, z=-517.39], dimensionLocationPath overworld
+[20Dec2024 20:36:11.626] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/29254, l='ServerLevel[world]', x=-540.59, y=51.57, z=-517.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@44]
+[20Dec2024 20:36:12.126] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/29254, l='ServerLevel[world]', x=-539.79, y=51.64, z=-516.77, removed=DISCARDED]
+[20Dec2024 20:36:20.387] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[20Dec2024 20:36:37.385] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[20Dec2024 20:40:15.685] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/68, l='ServerLevel[world]', x=-450.30, y=51.00, z=-539.30]
+[20Dec2024 20:40:20.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Not Today, Thank You]
