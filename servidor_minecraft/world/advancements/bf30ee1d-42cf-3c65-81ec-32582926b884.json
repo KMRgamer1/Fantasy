@@ -823,6 +823,7 @@
       "minecraft:skeleton": "2024-12-20 20:40:24 +0000",
       "minecraft:spider": "2024-12-20 20:38:59 +0000",
       "minecraft:creeper": "2024-12-20 20:57:11 +0000",
+      "minecraft:cave_spider": "2024-12-20 21:12:59 +0000",
       "minecraft:silverfish": "2024-12-20 21:09:28 +0000",
       "minecraft:stray": "2024-12-20 21:09:05 +0000",
       "minecraft:zombie": "2024-12-20 18:58:57 +0000"
@@ -1503,6 +1504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/wither_boots": {
     "criteria": {
       "has_bone": "2024-12-20 20:19:32 +0000"
@@ -1542,6 +1549,18 @@
   "knightquest:recipes/misc/husk_helmet": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-20 19:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-20 21:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
     },
     "done": true
   },
@@ -1966,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-12-20 19:29:19 +0000"
@@ -2164,6 +2189,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 21:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 20:24:50 +0000"
@@ -2173,6 +2204,12 @@
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2024-12-20 20:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
     },
     "done": true
   },
@@ -2194,9 +2231,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 21:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-12-20 19:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
     },
     "done": true
   },
@@ -2638,6 +2687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-20 19:26:27 +0000"
@@ -2722,6 +2777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-20 20:46:22 +0000"
@@ -2731,6 +2792,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-20 19:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
     },
     "done": true
   },
@@ -2773,6 +2840,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-20 19:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 21:14:04 +0000"
     },
     "done": true
   },
@@ -2842,9 +2915,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/forze_chestplate": {
     "criteria": {
       "has_spider_eye": "2024-12-20 20:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
     },
     "done": true
   },
@@ -2860,6 +2945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 21:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-20 20:39:00 +0000"
@@ -2869,6 +2960,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-20 19:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 21:13:57 +0000"
     },
     "done": true
   },
@@ -2941,6 +3038,12 @@
   "knightquest:recipes/misc/silver_chestplate": {
     "criteria": {
       "has_feather": "2024-12-20 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-20 21:20:40 +0000"
     },
     "done": true
   },
