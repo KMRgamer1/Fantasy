@@ -1345,3 +1345,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 20:06:32.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has completed the challenge [Repair Crystal]
 [07May2025 20:09:31.319] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
 [07May2025 20:13:12.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07May2025 20:19:32.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07May2025 20:30:14.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Diamonds!]
+[07May2025 20:31:55.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Take Aim]
+[07May2025 20:35:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Cover Me with Diamonds]
