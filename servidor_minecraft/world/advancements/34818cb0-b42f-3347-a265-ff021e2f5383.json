@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-07 20:36:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-07 18:54:08 +0000"
@@ -377,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-07 20:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 19:27:14 +0000"
@@ -472,6 +484,7 @@
       "minecraft:skeleton": "2025-05-07 19:48:27 +0000",
       "minecraft:spider": "2025-05-07 19:10:54 +0000",
       "minecraft:creeper": "2025-05-07 20:21:05 +0000",
+      "minecraft:wither_skeleton": "2025-05-07 20:36:33 +0000",
       "minecraft:cave_spider": "2025-05-07 20:28:28 +0000",
       "minecraft:stray": "2025-05-07 20:21:12 +0000",
       "minecraft:zombie": "2025-05-07 19:00:03 +0000"
@@ -484,6 +497,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/phantom_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-07 20:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-07 19:32:26 +0000"
@@ -493,6 +512,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-05-07 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-07 20:36:41 +0000"
     },
     "done": true
   },
@@ -610,6 +635,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-07 20:36:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-05-07 19:57:45 +0000"
@@ -700,6 +731,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/phantom_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-07 20:34:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-05-07 19:26:10 +0000"
@@ -709,6 +746,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-07 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-07 20:34:39 +0000"
     },
     "done": true
   },
@@ -727,6 +770,12 @@
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
       "has_leather": "2025-05-07 19:51:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-07 20:34:39 +0000"
     },
     "done": true
   },
@@ -1030,6 +1079,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-07 20:36:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-07 19:51:40 +0000"
@@ -1060,6 +1115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/forze_helmet": {
     "criteria": {
       "has_spider_eye": "2025-05-07 19:02:14 +0000"
@@ -1075,6 +1136,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-07 18:58:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-07 20:34:39 +0000"
     },
     "done": true
   },
@@ -1222,6 +1289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-07 19:26:31 +0000"
@@ -1297,6 +1370,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-07 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
     },
     "done": true
   },
@@ -1732,6 +1811,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-07 20:36:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-07 19:02:14 +0000"
@@ -1816,6 +1901,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-07 20:36:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-05-07 19:27:14 +0000"
@@ -1849,6 +1940,12 @@
   "knightquest:recipes/misc/spider_boots": {
     "criteria": {
       "has_spider_eye": "2025-05-07 19:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
     },
     "done": true
   },
@@ -1888,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-05-07 19:57:45 +0000"
@@ -1909,6 +2012,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-07 19:17:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-07 20:36:41 +0000"
     },
     "done": true
   },
@@ -1997,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/pirate_boots": {
     "criteria": {
       "has_map": "2025-05-07 19:20:13 +0000"
@@ -2012,6 +2127,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-07 18:52:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-07 20:36:41 +0000"
     },
     "done": true
   },
@@ -2207,6 +2328,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-07 20:34:39 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2025-05-07 20:17:32 +0000"
@@ -2309,6 +2442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
+    },
+    "done": true
+  },
   "totw_modded:root": {
     "criteria": {
       "sample_trigger": "2025-05-07 18:52:22 +0000"
@@ -2324,6 +2463,12 @@
   "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-07 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-07 20:34:39 +0000"
     },
     "done": true
   },
@@ -2555,6 +2700,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/sea_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-07 20:34:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-05-07 18:54:08 +0000"
@@ -2643,6 +2794,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-05-07 19:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-07 20:41:49 +0000"
     },
     "done": true
   },

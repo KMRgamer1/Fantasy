@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-07 20:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-07 20:21:26 +0000"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-07 20:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 19:20:05 +0000"
@@ -569,6 +581,7 @@
       "minecraft:skeleton": "2025-05-07 19:03:36 +0000",
       "minecraft:spider": "2025-05-07 19:02:12 +0000",
       "minecraft:creeper": "2025-05-07 19:30:57 +0000",
+      "minecraft:wither_skeleton": "2025-05-07 20:34:23 +0000",
       "minecraft:cave_spider": "2025-05-07 20:28:36 +0000",
       "minecraft:silverfish": "2025-05-07 20:33:53 +0000",
       "minecraft:stray": "2025-05-07 20:21:37 +0000",
@@ -1872,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-07 20:42:05 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_chestplate": {
     "criteria": {
       "has_leather": "2025-05-07 19:42:13 +0000"
@@ -2097,6 +2116,12 @@
   "knightquest:recipes/misc/spider_boots": {
     "criteria": {
       "has_spider_eye": "2025-05-07 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-07 20:36:36 +0000"
     },
     "done": true
   },
