@@ -1576,3 +1576,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 23:03:42.421] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60671, l='ServerLevel[world]', x=-215.70, y=67.00, z=-484.49] died, message: 'Unemployed was slain by Zombie Villager'
 [07May2025 23:03:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zhair16> ewesa
 [07May2025 23:28:44.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07May2025 23:40:48.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07May2025 23:43:46.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 lost connection: Disconnected
+[07May2025 23:43:46.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 left the game
+[07May2025 23:43:46.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[07May2025 23:43:46.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[07May2025 23:43:57.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07May2025 23:43:57.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07May2025 23:43:57.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07May2025 23:43:57.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07May2025 23:43:57.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07May2025 23:43:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07May2025 23:43:57.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07May2025 23:43:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07May2025 23:43:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07May2025 23:43:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07May2025 23:43:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07May2025 23:43:57.518] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07May2025 23:43:57.519] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07May2025 23:43:57.523] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07May2025 23:43:57.526] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

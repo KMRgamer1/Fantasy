@@ -18818,3 +18818,90 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 23:39:04.420] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.24, y=75.00, z=-522.24], dimensionLocationPath overworld
 [07May2025 23:39:04.421] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.24, y=75.00, z=-522.24] in list []
 [07May2025 23:39:04.524] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.24, y=75.00, z=-522.24]
+[07May2025 23:39:10.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 23:39:10.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 23:39:23.819] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.19, y=75.00, z=-523.30], dimensionLocationPath overworld
+[07May2025 23:39:23.819] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.19, y=75.00, z=-523.30] in list []
+[07May2025 23:39:23.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.14, y=75.00, z=-523.30]
+[07May2025 23:39:32.719] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.98, y=75.50, z=-520.05], dimensionLocationPath overworld
+[07May2025 23:39:32.719] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.98, y=75.50, z=-520.05] in list []
+[07May2025 23:39:32.924] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.95, y=75.50, z=-520.35]
+[07May2025 23:39:33.372] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.94, y=75.50, z=-521.09], dimensionLocationPath overworld
+[07May2025 23:39:33.372] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.94, y=75.50, z=-521.09] in list []
+[07May2025 23:39:33.422] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-141.94, y=75.50, z=-521.12]
+[07May2025 23:40:35.273] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-142.88, y=76.00, z=-517.51], dimensionLocationPath overworld
+[07May2025 23:40:35.273] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-142.88, y=76.00, z=-517.51] in list []
+[07May2025 23:40:35.327] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-142.88, y=76.00, z=-517.51]
+[07May2025 23:40:48.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07May2025 23:41:27.072] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-145.70, y=74.00, z=-522.70], dimensionLocationPath overworld
+[07May2025 23:41:27.072] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-145.70, y=74.00, z=-522.70] in list []
+[07May2025 23:41:27.174] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-145.70, y=74.00, z=-522.70]
+[07May2025 23:41:39.626] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.34, y=75.00, z=-524.09], dimensionLocationPath overworld
+[07May2025 23:41:39.627] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.34, y=75.00, z=-524.09] in list []
+[07May2025 23:41:39.923] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.34, y=75.00, z=-524.09]
+[07May2025 23:41:40.473] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.34, y=75.00, z=-524.09], dimensionLocationPath overworld
+[07May2025 23:41:40.473] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.34, y=75.00, z=-524.09] in list []
+[07May2025 23:41:40.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.34, y=75.00, z=-524.09]
+[07May2025 23:41:44.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.23, y=77.00, z=-522.76], dimensionLocationPath overworld
+[07May2025 23:41:44.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.23, y=77.00, z=-522.76] in list []
+[07May2025 23:41:44.622] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-143.23, y=77.00, z=-522.76]
+[07May2025 23:42:17.277] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-152.54, y=72.00, z=-510.92], dimensionLocationPath overworld
+[07May2025 23:42:17.277] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-152.54, y=72.00, z=-510.92] in list []
+[07May2025 23:42:17.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-152.54, y=72.00, z=-510.92]
+[07May2025 23:42:22.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-152.67, y=76.00, z=-513.47], dimensionLocationPath overworld
+[07May2025 23:42:22.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-152.67, y=76.00, z=-513.47] in list []
+[07May2025 23:42:22.826] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/1854, l='ServerLevel[world]', x=-152.67, y=76.00, z=-513.47]
+[07May2025 23:43:46.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 lost connection: Disconnected
+[07May2025 23:43:46.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 left the game
+[07May2025 23:43:46.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[07May2025 23:43:46.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[07May2025 23:43:57.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07May2025 23:43:57.162] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[07May2025 23:43:57.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07May2025 23:43:57.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07May2025 23:43:57.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07May2025 23:43:57.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07May2025 23:43:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07May2025 23:43:57.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07May2025 23:43:57.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 23:43:57.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 23:43:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07May2025 23:43:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07May2025 23:43:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07May2025 23:43:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07May2025 23:43:57.518] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07May2025 23:43:57.519] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Fantasy/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.0-universal.jar%23362!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23357!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23357!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07May2025 23:43:57.519] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07May2025 23:43:57.523] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07May2025 23:43:57.523] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[07May2025 23:43:57.526] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

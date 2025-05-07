@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-07 21:13:17 +0000"
@@ -442,6 +448,12 @@
       "has_coal": "2025-05-07 19:10:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
   },
   "repurposed_structures:root": {
     "criteria": {
@@ -1010,6 +1022,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-05-07 19:27:14 +0000"
@@ -1406,6 +1424,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-07 20:41:49 +0000"
@@ -1676,6 +1700,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-07 19:51:40 +0000"
@@ -1699,6 +1729,12 @@
       "has_log": "2025-05-07 22:58:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
@@ -2055,6 +2091,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-05-07 19:42:38 +0000"
@@ -2306,6 +2348,12 @@
       "has_gold_nugget": "2025-05-07 19:32:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
@@ -2682,6 +2730,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 19:27:14 +0000"
@@ -2795,6 +2849,12 @@
       "has_sign": "2025-05-07 19:26:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
@@ -2933,6 +2993,12 @@
       "minecraft:village_swamp": "2025-05-07 22:36:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
   },
   "knightquest:recipes/misc/sea_helmet": {
     "criteria": {
@@ -3137,6 +3203,12 @@
       "has_feather": "2025-05-07 22:00:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-07 23:43:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
