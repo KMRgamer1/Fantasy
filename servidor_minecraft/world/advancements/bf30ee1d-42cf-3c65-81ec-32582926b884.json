@@ -1161,6 +1161,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-07 23:04:09 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bow_leggings": {
     "criteria": {
       "has_arrow": "2025-05-07 19:03:36 +0000"
@@ -1677,6 +1683,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-07 23:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-07 20:05:39 +0000"
@@ -1920,6 +1932,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-07 20:21:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-05-07 23:04:07 +0000"
     },
     "done": true
   },
@@ -3170,6 +3188,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-07 22:13:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-07 23:04:09 +0000"
     },
     "done": true
   },
