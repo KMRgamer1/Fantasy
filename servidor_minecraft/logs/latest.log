@@ -1366,3 +1366,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 21:35:52.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Ol' Betsy]
 [07May2025 21:35:52.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Take Aim]
 [07May2025 21:37:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Local Brewery]
+[07May2025 21:38:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Ice Bucket Challenge]
+[07May2025 21:39:18.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Spooky Scary Skeleton]
+[07May2025 21:41:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has reached the goal [Half a flight]
+[07May2025 21:42:49.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zhair16> wr
+[07May2025 21:45:03.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=32, y=92, z=1208}
+[07May2025 21:49:19.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Dragonslayer]
