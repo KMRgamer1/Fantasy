@@ -1322,3 +1322,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 19:46:09.415] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [07May2025 19:46:38.006] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [07May2025 19:46:48.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Best Friends Forever]
+[07May2025 19:47:18.673] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=18, y=-31, z=804}
+[07May2025 19:47:24.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [What a Dungeon!]
+[07May2025 19:51:16.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Not Today, Thank You]
+[07May2025 19:52:35.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Diamonds!]
+[07May2025 19:53:05.019] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07May2025 19:53:06.561] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07May2025 19:53:06.657] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07May2025 19:53:06.691] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07May2025 19:53:06.782] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07May2025 19:53:06.831] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07May2025 19:53:06.911] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[07May2025 19:53:14.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11366ms or 227 ticks behind
+[07May2025 19:57:13.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [What a Dungeon!]
+[07May2025 19:57:33.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Simple Dungeon Room]
+[07May2025 19:57:57.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Too Many Bows]
+[07May2025 19:58:21.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Simple Dungeon Room]
+[07May2025 19:58:27.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Too Many Bows]
+[07May2025 19:59:12.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Ancient Sage]
+[07May2025 19:59:17.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Ancient Sage]
+[07May2025 20:05:27.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Not Today, Thank You]
+[07May2025 20:06:32.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has completed the challenge [Repair Crystal]
+[07May2025 20:09:31.319] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[07May2025 20:13:12.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
