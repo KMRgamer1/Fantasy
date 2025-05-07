@@ -1867,6 +1867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-07 20:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-07 19:00:46 +0000"
@@ -1954,6 +1960,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-07 20:21:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2025-05-07 20:53:39 +0000"
     },
     "done": true
   },
@@ -2522,6 +2534,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2025-05-07 20:53:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-07 19:52:35 +0000"
@@ -2930,6 +2948,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2025-05-07 20:53:39 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:master_bow_collector": {
     "criteria": {
       "burnt_relic": "2025-05-07 20:24:50 +0000",
@@ -2948,6 +2972,12 @@
   "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
       "has_ender_pearl": "2025-05-07 20:11:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2025-05-07 20:53:39 +0000"
     },
     "done": true
   },
@@ -2984,6 +3014,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 19:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-07 20:48:57 +0000"
     },
     "done": true
   },
