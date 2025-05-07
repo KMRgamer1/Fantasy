@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-05-07 20:54:42 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/witch_boots": {
     "criteria": {
       "has_glass_bottle": "2025-05-07 20:18:58 +0000"
@@ -616,6 +622,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-07 18:56:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_iron_block": "2025-05-07 20:54:42 +0000"
     },
     "done": true
   },
@@ -1255,6 +1267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-07 20:54:42 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/sea_chestplate": {
     "criteria": {
       "has_heart_of_the_sea": "2025-05-07 19:42:10 +0000"
@@ -1891,6 +1909,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2025-05-07 20:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2025-05-07 20:42:05 +0000"
@@ -2306,6 +2330,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2025-05-07 20:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-07 19:42:13 +0000"
@@ -2702,6 +2732,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_iron_block": "2025-05-07 20:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-07 20:31:38 +0000"
@@ -2843,6 +2879,12 @@
   "knightquest:recipes/misc/bamboo_helmet": {
     "criteria": {
       "has_coal": "2025-05-07 19:07:58 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_iron_block": "2025-05-07 20:54:42 +0000"
     },
     "done": true
   },
@@ -3174,9 +3216,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-07 20:54:42 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_leggings": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-07 20:27:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_iron_block": "2025-05-07 20:54:42 +0000"
     },
     "done": true
   },
