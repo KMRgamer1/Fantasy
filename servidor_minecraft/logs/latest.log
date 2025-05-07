@@ -1241,3 +1241,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 18:56:29.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku joined the game
 [07May2025 18:56:29.297] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
 [07May2025 18:56:29.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Ice and Fire]
+[07May2025 18:57:50.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Dungeon Now Loading]
+[07May2025 19:00:03.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Monster Hunter]
+[07May2025 19:00:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Knight Quest]
+[07May2025 19:00:46.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Stone Age]
+[07May2025 19:01:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Monster Hunter]
+[07May2025 19:01:01.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Knight Quest]
+[07May2025 19:02:09.363] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07May2025 19:02:09.364] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07May2025 19:04:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku was shot by Skeleton
+[07May2025 19:04:11.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 was shot by Skeleton
+[07May2025 19:06:17.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 was slain by Spider
