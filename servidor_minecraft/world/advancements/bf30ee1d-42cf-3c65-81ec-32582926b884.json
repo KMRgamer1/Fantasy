@@ -615,6 +615,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-07 19:17:17 +0000",
       "minecraft:skeleton": "2025-05-07 19:03:36 +0000",
+      "minecraft:vindicator": "2025-05-07 21:33:13 +0000",
       "minecraft:spider": "2025-05-07 19:02:12 +0000",
       "minecraft:creeper": "2025-05-07 19:30:57 +0000",
       "minecraft:wither_skeleton": "2025-05-07 20:34:23 +0000",
@@ -991,6 +992,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2025-05-07 21:24:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-05-07 19:20:05 +0000"
@@ -1183,6 +1190,12 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-05-07 21:24:44 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
       "has_bone": "2025-05-07 19:42:13 +0000"
@@ -1288,6 +1301,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-07 20:04:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-05-07 21:24:44 +0000"
     },
     "done": true
   },
@@ -1600,6 +1619,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-05-07 18:56:29 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-05-07 21:24:44 +0000"
     },
     "done": true
   },
@@ -1957,6 +1982,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-05-07 21:32:46 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/creeper_leggings": {
     "criteria": {
       "has_gunpowder": "2025-05-07 20:11:17 +0000"
@@ -2299,6 +2330,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2025-05-07 21:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-07 19:20:05 +0000"
@@ -2591,6 +2628,12 @@
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-07 18:58:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-05-07 21:31:32 +0000"
     },
     "done": true
   },

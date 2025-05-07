@@ -893,6 +893,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2025-05-07 21:24:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-05-07 19:27:14 +0000"
@@ -1043,6 +1049,12 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-05-07 21:24:22 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
       "has_bone": "2025-05-07 19:57:50 +0000"
@@ -1130,6 +1142,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-07 18:58:17 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-05-07 21:24:22 +0000"
     },
     "done": true
   },
@@ -1430,6 +1448,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-05-07 18:51:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-05-07 21:24:22 +0000"
     },
     "done": true
   },
@@ -1763,6 +1787,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-05-07 21:32:56 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/creeper_leggings": {
     "criteria": {
       "has_gunpowder": "2025-05-07 19:30:57 +0000"
@@ -2072,6 +2102,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-07 21:02:51 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2025-05-07 21:24:22 +0000"
     },
     "done": true
   },
@@ -3092,7 +3128,8 @@
       "cooked_beef": "2025-05-07 19:13:54 +0000",
       "porkchop": "2025-05-07 18:59:51 +0000",
       "apple": "2025-05-07 21:03:34 +0000",
-      "bread": "2025-05-07 19:23:37 +0000"
+      "bread": "2025-05-07 19:23:37 +0000",
+      "rotten_flesh": "2025-05-07 21:25:18 +0000"
     },
     "done": false
   },

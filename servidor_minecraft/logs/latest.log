@@ -1356,3 +1356,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 21:19:30.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [07May2025 21:24:22.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [False Water]
 [07May2025 21:24:44.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [False Water]
+[07May2025 21:31:54.570] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=243, y=91, z=967}
+[07May2025 21:33:47.768] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=404, y=90, z=1129}
+[07May2025 21:33:51.873] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=425, y=85, z=1132}
+[07May2025 21:33:51.873] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=425, y=81, z=1130}
+[07May2025 21:33:55.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=438, y=100, z=1111}
+[07May2025 21:33:55.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=438, y=100, z=1116}
+[07May2025 21:34:33.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07May2025 21:35:52.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Ol' Betsy]
+[07May2025 21:35:52.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Take Aim]
+[07May2025 21:37:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Local Brewery]
