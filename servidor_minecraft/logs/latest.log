@@ -1306,3 +1306,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 19:25:53.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-159, y=49, z=426}
 [07May2025 19:25:57.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-192, y=-29, z=376}
 [07May2025 19:25:57.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-191, y=-28, z=377}
+[07May2025 19:27:14.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Acquire Hardware]
+[07May2025 19:29:50.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Suit Up]
+[07May2025 19:31:15.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Isn't It Iron Pick]
+[07May2025 19:32:36.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Suit Up]
