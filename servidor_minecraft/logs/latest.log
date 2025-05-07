@@ -1575,3 +1575,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07May2025 23:03:39.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60588, l='ServerLevel[world]', x=-215.45, y=67.00, z=-483.40] died, message: 'Unemployed was slain by Zombie'
 [07May2025 23:03:42.421] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60671, l='ServerLevel[world]', x=-215.70, y=67.00, z=-484.49] died, message: 'Unemployed was slain by Zombie Villager'
 [07May2025 23:03:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zhair16> ewesa
+[07May2025 23:28:44.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
