@@ -865,3 +865,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09May2025 22:32:32.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Book of Monsters]
 [09May2025 22:39:11.103] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [09May2025 22:40:31.305] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09May2025 22:56:51.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09May2025 22:57:18.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has completed the challenge [Repair Crystal]
