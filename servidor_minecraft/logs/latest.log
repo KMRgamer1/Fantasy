@@ -858,3 +858,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09May2025 22:05:55.198] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
 [09May2025 22:06:03.614] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/226, l='ServerLevel[world]', x=-215.70, y=67.00, z=-486.43] died, message: 'Unemployed was slain by Zombie'
 [09May2025 22:13:35.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09May2025 22:22:40.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/134, l='ServerLevel[world]', x=-155.70, y=68.00, z=-470.70] died, message: 'Leatherworker was slain by Zombie'
+[09May2025 22:23:49.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zhair16> gg
+[09May2025 22:26:11.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Book of Monsters]
