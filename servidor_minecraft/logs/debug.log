@@ -8590,3 +8590,246 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09May2025 23:40:29.364] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-153.61, y=69.44, z=-522.51], dimensionLocationPath overworld
 [09May2025 23:40:29.364] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-153.61, y=69.44, z=-522.51] in list []
 [09May2025 23:40:29.461] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-153.48, y=69.67, z=-522.48]
+[09May2025 23:43:45.712] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-155.70, y=75.41, z=-522.49], dimensionLocationPath overworld
+[09May2025 23:43:45.712] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-155.70, y=75.41, z=-522.49] in list []
+[09May2025 23:43:46.562] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-155.98, y=75.50, z=-519.72]
+[09May2025 23:44:31.409] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-152.55, y=68.00, z=-506.33], dimensionLocationPath overworld
+[09May2025 23:44:31.410] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-152.55, y=68.00, z=-506.33] in list []
+[09May2025 23:44:31.912] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-151.21, y=68.00, z=-504.76]
+[09May2025 23:44:42.504] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09May2025 23:45:28.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 23:45:28.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 23:45:37.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-157.92, y=68.50, z=-497.30], dimensionLocationPath overworld
+[09May2025 23:45:37.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-157.92, y=68.50, z=-497.30] in list []
+[09May2025 23:45:37.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-160.36, y=68.00, z=-496.71]
+[09May2025 23:45:38.011] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-160.59, y=68.00, z=-496.55], dimensionLocationPath overworld
+[09May2025 23:45:38.011] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-160.59, y=68.00, z=-496.55] in list []
+[09May2025 23:45:59.061] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-214.36, y=71.12, z=-472.51]
+[09May2025 23:46:41.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-400, y=-42, z=-220}
+[09May2025 23:46:41.414] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-391, y=-40, z=-216}
+[09May2025 23:46:41.414] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-400, y=-43, z=-219}
+[09May2025 23:46:50.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/general
+[09May2025 23:46:50.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/plate/var1
+[09May2025 23:46:50.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/plate/var2
+[09May2025 23:46:50.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/sleep1
+[09May2025 23:46:50.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/sleep2
+[09May2025 23:46:50.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/kitchen
+[09May2025 23:46:50.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/decoration/campfire
+[09May2025 23:46:50.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/decoration/bell
+[09May2025 23:48:35.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_cage
+[09May2025 23:48:35.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/small
+[09May2025 23:48:36.767] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[09May2025 23:49:26.067] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-73.36, y=68.00, z=-335.44], dimensionLocationPath overworld
+[09May2025 23:49:26.067] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-73.36, y=68.00, z=-335.44] in list []
+[09May2025 23:49:26.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-74.54, y=68.80, z=-331.44]
+[09May2025 23:49:29.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_the_column_temple
+[09May2025 23:49:34.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_ruin_pillager
+[09May2025 23:49:37.837] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[09May2025 23:49:37.994] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[09May2025 23:49:38.002] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[09May2025 23:49:38.014] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[09May2025 23:49:38.016] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[09May2025 23:49:38.019] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[09May2025 23:49:38.023] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[09May2025 23:49:39.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-628, y=0, z=-622}
+[09May2025 23:49:39.999] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-638, y=-4, z=-771}
+[09May2025 23:49:40.471] [Worker-Main-90/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[09May2025 23:49:42.249] [Worker-Main-92/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[09May2025 23:49:42.553] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_tomb/root
+[09May2025 23:49:42.636] [Worker-Main-89/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[09May2025 23:49:46.655] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[09May2025 23:49:48.511] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-674, y=-39, z=-626}
+[09May2025 23:49:48.512] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-674, y=-44, z=-633}
+[09May2025 23:49:48.512] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-675, y=-44, z=-637}
+[09May2025 23:49:48.513] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-688, y=-44, z=-627}
+[09May2025 23:49:48.654] [Worker-Main-92/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[09May2025 23:49:48.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-674, y=-39, z=-641}
+[09May2025 23:49:48.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-678, y=-44, z=-647}
+[09May2025 23:49:49.395] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[09May2025 23:49:52.280] [Worker-Main-92/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[09May2025 23:49:52.287] [Worker-Main-92/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[09May2025 23:49:52.303] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[09May2025 23:50:12.260] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[09May2025 23:50:23.799] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[09May2025 23:50:23.877] [Worker-Main-94/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[09May2025 23:50:26.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6
+[09May2025 23:50:27.082] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[09May2025 23:50:28.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 23:50:28.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 23:50:49.881] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[09May2025 23:50:49.882] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md21b87f$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[09May2025 23:50:53.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:53.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:53.267] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:54.270] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:54.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:54.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:54.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:54.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:54.763] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:54.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:54.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.065] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.465] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.664] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:55.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.165] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.463] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.566] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:56.963] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.162] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.472] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.564] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.866] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:57.968] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.166] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.566] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.661] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.763] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:58.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.166] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.465] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.656] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[09May2025 23:50:59.668] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.768] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:50:59.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.165] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:00.969] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.018] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-191, y=8, z=-1013}
+[09May2025 23:51:01.019] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-190, y=8, z=-1012}
+[09May2025 23:51:01.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.371] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.665] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:01.967] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:02.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.366] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.565] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:03.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.369] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.463] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:04.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:05.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:05.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:05.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:05.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:05.462] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:05.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 23:51:08.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7b
+[09May2025 23:51:09.088] [Worker-Main-95/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:monster_maze/root
+[09May2025 23:51:09.793] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-158.45, y=60.00, z=5.30], dimensionLocationPath overworld
+[09May2025 23:51:09.954] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-158.45, y=60.00, z=5.30] in list []
+[09May2025 23:51:10.050] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-158.48, y=60.00, z=5.30]
+[09May2025 23:51:10.984] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[09May2025 23:51:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Hot Stuff]
+[09May2025 23:51:13.644] [Worker-Main-90/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[09May2025 23:51:23.374] [Worker-Main-90/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[09May2025 23:51:26.207] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[09May2025 23:51:27.449] [Worker-Main-96/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-178, y=-54, z=-1061}
+[09May2025 23:51:27.449] [Worker-Main-96/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-178, y=-54, z=-1059}
+[09May2025 23:51:27.449] [Worker-Main-96/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-178, y=-54, z=-1061}
+[09May2025 23:51:27.450] [Worker-Main-96/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-178, y=-54, z=-1059}
+[09May2025 23:51:30.797] [Worker-Main-95/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[09May2025 23:51:30.808] [Worker-Main-95/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[09May2025 23:51:32.168] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[09May2025 23:51:32.179] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[09May2025 23:51:32.187] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[09May2025 23:51:32.195] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[09May2025 23:51:32.205] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[09May2025 23:51:32.218] [Worker-Main-91/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[09May2025 23:51:32.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:castle/top1
+[09May2025 23:51:32.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:castle/bottom1
+[09May2025 23:51:32.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[09May2025 23:51:32.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/top
+[09May2025 23:51:32.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/var2
+[09May2025 23:51:32.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-178, y=-54, z=-1061}
+[09May2025 23:51:32.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-178, y=-54, z=-1059}
+[09May2025 23:51:41.716] [Worker-Main-90/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/spider_spawner
+[09May2025 23:51:41.744] [Worker-Main-90/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large1
+[09May2025 23:52:06.355] [Worker-Main-94/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[09May2025 23:52:30.777] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[09May2025 23:52:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 was frozen by a dragon
+[09May2025 23:53:38.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-122.79, y=67.22, z=-452.76], dimensionLocationPath overworld
+[09May2025 23:53:38.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-122.79, y=67.22, z=-452.76] in list []
+[09May2025 23:53:38.363] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-123.40, y=67.00, z=-453.54]
+[09May2025 23:53:56.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-140.55, y=68.00, z=-502.83], dimensionLocationPath overworld
+[09May2025 23:53:56.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-140.55, y=68.00, z=-502.83] in list []
+[09May2025 23:53:56.261] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-140.55, y=68.00, z=-502.89]
+[09May2025 23:53:59.411] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-140.70, y=68.17, z=-502.75], dimensionLocationPath overworld
+[09May2025 23:53:59.411] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-140.70, y=68.17, z=-502.75] in list []
+[09May2025 23:53:59.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-140.70, y=68.25, z=-502.87]
+[09May2025 23:55:28.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 23:55:28.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 23:57:15.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 was slain by Ice Dragon
+[09May2025 23:57:24.762] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[09May2025 23:57:32.768] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[09May2025 23:58:13.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku was slain by Ice Dragon
+[09May2025 23:59:59.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Dragonslayer]
+[10May2025 00:00:17.412] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-149.72, y=64.00, z=-800.34], dimensionLocationPath overworld
+[10May2025 00:00:17.412] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-149.72, y=64.00, z=-800.34] in list []
+[10May2025 00:00:17.813] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/619, l='ServerLevel[world]', x=-149.72, y=64.00, z=-800.34]
+[10May2025 00:00:28.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 00:00:28.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
