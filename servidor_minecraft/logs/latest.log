@@ -1379,3 +1379,6 @@
 [10May2025 00:36:16.834] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
 [10May2025 00:49:12.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [10May2025 01:06:16.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 01:13:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Would you Like to Know More?]
+[10May2025 01:17:58.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58955, l='ServerLevel[world]', x=-135.70, y=66.55, z=-518.50] died, message: 'Unemployed suffocated in a wall'
+[10May2025 01:21:08.254] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
