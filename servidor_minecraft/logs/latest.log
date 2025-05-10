@@ -1382,3 +1382,5 @@
 [10May2025 01:13:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Would you Like to Know More?]
 [10May2025 01:17:58.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58955, l='ServerLevel[world]', x=-135.70, y=66.55, z=-518.50] died, message: 'Unemployed suffocated in a wall'
 [10May2025 01:21:08.254] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 01:26:20.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10May2025 01:29:56.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60889, l='ServerLevel[world]', x=-138.50, y=70.00, z=-497.28] died, message: 'Unemployed was burnt to a crisp whilst fighting Zhair16'
